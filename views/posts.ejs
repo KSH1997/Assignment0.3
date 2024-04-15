@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Posts</title>
+</head>
+<body>
+  <h1>Posts</h1>
+
+  <ul>
+    <% for (const post of posts) { %>
+      <li>
+        <a href="/posts/first-page?postId=<%= post.id %>&title=<%= post.title %>">
+          <h2><%= post.title %></h2>
+        </a>
+      </li>
+      <li>
+        <a href="/posts/second-page?postId=<%= post.id %>&title=<%= post.title %>">
+          <h2><%= post.title %></h2>
+        </a>
+      </li>
+    <% } %>
+  </ul>
+</body>
+</html>

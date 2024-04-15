@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekzmw\\Desktop\\Assignment0.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A596D730-6E67-4243-95C1-C0571F3584E0}|Assignment0.3.esproj|c:\\users\\ekzmw\\desktop\\assignment0.3\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A596D730-6E67-4243-95C1-C0571F3584E0}|Assignment0.3.esproj|solutionrelative:server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A596D730-6E67-4243-95C1-C0571F3584E0}|Assignment0.3.esproj|c:\\users\\ekzmw\\desktop\\assignment0.3\\views\\first-page.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A596D730-6E67-4243-95C1-C0571F3584E0}|Assignment0.3.esproj|solutionrelative:views\\first-page.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A596D730-6E67-4243-95C1-C0571F3584E0}|Assignment0.3.esproj|c:\\users\\ekzmw\\desktop\\assignment0.3\\views\\posts.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A596D730-6E67-4243-95C1-C0571F3584E0}|Assignment0.3.esproj|solutionrelative:views\\posts.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A596D730-6E67-4243-95C1-C0571F3584E0}|Assignment0.3.esproj|c:\\users\\ekzmw\\desktop\\assignment0.3\\views\\second-page.ejs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A596D730-6E67-4243-95C1-C0571F3584E0}|Assignment0.3.esproj|solutionrelative:views\\second-page.ejs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "second-page.ejs",
+              "DocumentMoniker": "C:\\Users\\ekzmw\\Desktop\\Assignment0.3\\views\\second-page.ejs",
+              "RelativeDocumentMoniker": "views\\second-page.ejs",
+              "ToolTip": "C:\\Users\\ekzmw\\Desktop\\Assignment0.3\\views\\second-page.ejs",
+              "RelativeToolTip": "views\\second-page.ejs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-15T11:22:41.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "posts.ejs",
+              "DocumentMoniker": "C:\\Users\\ekzmw\\Desktop\\Assignment0.3\\views\\posts.ejs",
+              "RelativeDocumentMoniker": "views\\posts.ejs",
+              "ToolTip": "C:\\Users\\ekzmw\\Desktop\\Assignment0.3\\views\\posts.ejs",
+              "RelativeToolTip": "views\\posts.ejs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-15T08:07:30.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "first-page.ejs",
+              "DocumentMoniker": "C:\\Users\\ekzmw\\Desktop\\Assignment0.3\\views\\first-page.ejs",
+              "RelativeDocumentMoniker": "views\\first-page.ejs",
+              "ToolTip": "C:\\Users\\ekzmw\\Desktop\\Assignment0.3\\views\\first-page.ejs",
+              "RelativeToolTip": "views\\first-page.ejs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-15T02:14:54.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\ekzmw\\Desktop\\Assignment0.3\\server.js",
+              "RelativeDocumentMoniker": "server.js",
+              "ToolTip": "C:\\Users\\ekzmw\\Desktop\\Assignment0.3\\server.js",
+              "RelativeToolTip": "server.js",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-15T00:04:47.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
